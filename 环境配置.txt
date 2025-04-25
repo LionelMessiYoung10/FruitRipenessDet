@@ -1,0 +1,11 @@
+[配置环境]
+(1)使用anaconda新建python3.10环境:
+conda create -n env_rec python=3.10
+(2)激活创建的环境:
+conda activate env_rec
+(3)使用pip安装所需的依赖，可通过requirements.txt:
+pip install -r requirements.txt
+
+
+基于机器学习和图像处理的苹果识别系统v1.0
+作者：来孟阳

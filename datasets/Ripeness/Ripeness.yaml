@@ -1,0 +1,36 @@
+path: "H:/1111111111\u6BD5\u8BBE\u82F9\u679C\u8BC6\u522B/lmy/FruitRipenessDet/datasets/Ripeness"
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 30
+names:
+- Apple Fresh
+- Apple Rotten
+- Apple Semifresh
+- Apple Semirotten
+- Banana Fresh
+- Banana Rotten
+- Banana Semifresh
+- Banana Semirotten
+- Mango Fresh
+- Mango Rotten
+- Mango Semifresh
+- Mango Semirotten
+- Melon Fresh
+- Melon Rotten
+- Melon Semifresh
+- Melon Semirotten
+- Orange Fresh
+- Orange Rotten
+- Orange Semifresh
+- Orange Semirotten
+- Peach Fresh
+- Peach Rotten
+- Peach Semifresh
+- Peach Semirotten
+- Pear Fresh
+- Pear Rotten
+- Pear Semifresh
+- Pear Semirotten
+- Ripe_Grape
+- Unripe_Grape
